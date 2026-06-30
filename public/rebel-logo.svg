@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Rebel Fitness logo</title>
+  <desc id="desc">Yellow circle Rebel Fitness logo with black RF monogram.</desc>
+  <rect width="512" height="512" fill="#ffffff"/>
+  <circle cx="256" cy="244" r="210" fill="#ffd500"/>
+  <g fill="#050505">
+    <path d="M132 137h108c54 0 88 29 88 74 0 35-20 59-53 70l58 82h-76l-50-73h-11v73h-64V137Zm64 52v52h37c18 0 30-10 30-26 0-17-12-26-30-26h-37Z"/>
+    <path d="M305 137h118v55h-54v39h48v54h-48v78h-64V137Z"/>
+    <path d="M116 384h280v13H116z"/>
+  </g>
+  <text x="256" y="426" text-anchor="middle" font-family="Arial Black, Impact, sans-serif" font-size="41" font-weight="900" fill="#050505">REBEL FITNESS</text>
+</svg>
