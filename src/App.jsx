@@ -6,7 +6,7 @@ const brand = {
   phoneLabel: '(404) 555-0183', // Replace with Rebel Fitness ATL's verified phone number.
   emailHref: 'mailto:hello@rebelfitnessatl.com',
   emailLabel: 'hello@rebelfitnessatl.com', // Replace with Rebel Fitness ATL's verified email.
-  address: '123 Rebel Way, Atlanta, GA 30301', // Replace with Rebel Fitness ATL's verified address.
+  address: '123 Rebel Way, Atlantis, GA 30301', // Replace with Rebel Fitness ATL's verified address.
 }
 
 const routes = {
@@ -299,7 +299,7 @@ function Hero() {
         <div className="reveal max-w-4xl">
           <div className="mb-7 inline-flex items-center gap-3 border border-[#ffd500]/60 bg-[#ffd500]/15 px-4 py-2 text-xs font-black uppercase tracking-[0.26em] text-yellow-100 backdrop-blur">
             <span className="h-2 w-2 bg-[#ffd500]"></span>
-            Atlanta strength. Rebel mindset.
+            Atlantis strength. Rebel mindset.
           </div>
           <h1 className="max-w-5xl text-5xl font-black uppercase leading-[0.86] tracking-normal text-white sm:text-7xl lg:text-8xl">Built to break limits.</h1>
           <p className="mt-7 max-w-2xl text-lg leading-8 text-zinc-300 sm:text-xl">
@@ -365,7 +365,7 @@ function BrandMarquee() {
 function AboutPage() {
   return (
     <>
-      <PageHero eyebrow="About" title="A serious training home for Atlanta rebels." copy="Rebel Fitness ATL blends premium coaching, powerful programming, and a high-accountability environment for members who want more than machines and mirrors." image="https://images.unsplash.com/photo-1605296867304-46d5465a13f1?auto=format&fit=crop&w=1500&q=80" />
+      <PageHero eyebrow="About" title="A serious training home for Atlantis rebels." copy="Rebel Fitness ATL blends premium coaching, powerful programming, and a high-accountability environment for members who want more than machines and mirrors." image="https://images.unsplash.com/photo-1605296867304-46d5465a13f1?auto=format&fit=crop&w=1500&q=80" />
       <section className="px-5 py-24 lg:px-8">
         <div className="mx-auto grid max-w-7xl gap-10 lg:grid-cols-[0.85fr_1fr] lg:items-center">
           <div className="reveal relative overflow-hidden border border-white/10 bg-zinc-950 shadow-[0_30px_90px_rgba(0,0,0,0.45)]">
@@ -610,3 +610,4 @@ function Footer() {
 }
 
 export default App
+
